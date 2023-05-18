@@ -31,12 +31,13 @@ console.log(likeThis(names));
 ## 🧩 Functionality
 The likeThis function takes an array of names as input, which represents the people who liked an object. Depending on the number of people who liked it, the function returns a string with a different format.
 
--If nobody liked it, it returns 'no one likes this'.
--If one person liked it, it returns '[name] likes this'.
--If two people liked it, it returns '[name1] and [name2] like this'.
--If three people liked it, it returns '[name1], [name2] and [name3] like this'.
--If more than three people liked it, it returns '[name1], [name2] and [number of others] others like this'.
-
+```Javascript
+If nobody liked it, it returns 'no one likes this'.
+If one person liked it, it returns '[name] likes this'.
+If two people liked it, it returns '[name1] and [name2] like this'.
+If three people liked it, it returns '[name1], [name2] and [name3] like this'.
+If more than three people liked it, it returns '[name1], [name2] and [number of others] others like this'.
+```
 ## 🤝 Contributing
 
 If you want to contribute to this library, feel free to open an issue or submit a pull request.
