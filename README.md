@@ -27,6 +27,7 @@ const names = ['John', 'Jane', 'Sam', 'Alice', 'Bob'];
 console.log(likeThis(names));
 // Outputs: 'John, Jane and 3 others like this'
 
+```
 ## 🧩 Functionality
 The likeThis function takes an array of names as input, which represents the people who liked an object. Depending on the number of people who liked it, the function returns a string with a different format.
 
