@@ -1,0 +1,28 @@
+
+{
+  "description": "likeThis takes an array of names as an argument and returns a formatted string message depending on the number of names present in the array ",
+  "main": "index.js",
+  "scripts": {
+  "test": "jest"
+},
+
+"repository": {
+  "type: "git",
+  "url": "git+https://github.com/tomnotthomas/Likethis.git"
+},
+
+  "keywords": [
+    "social media"
+  ],
+  "author": "Tom Schwabe",
+  "license": "MIT",
+  "bugs": {
+   "url": "https://github.com/tomnotthomas/Likethis/issues"
+},
+  "homepage": https://github.com/tomnotthomas/Likethis#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
+
+
