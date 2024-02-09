@@ -1,4 +1,3 @@
-Copy code
 # LikeThis
 
 A simple npm library that provides an intuitive function for creating short sentences about who liked a post, status, or any object that can be 'liked'.
